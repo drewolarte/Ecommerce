@@ -1,0 +1,135 @@
+{
+    "productos":[
+        
+        {
+            "_id": "1",
+            "name": "Velcro Ballerinas For Girls (Pink)",
+            "image":"https://picsum.photos/200",
+            "description":"Lorem Ipsum is simply dummy text of the printing and typesetting",
+            "price":89,
+            "countInStock":3,
+            "rating": 4,
+            "numReviews": 4
+        },
+        {
+            "_id": "2",
+            "name": "Velcro Ballerinas For Girls (Pink)",
+            "image":"https://picsum.photos/200",
+            "description":"Lorem Ipsum is simply dummy text of the printing and typesetting",
+            "price":89,
+            "countInStock":3,
+            "rating": 4.5,
+            "numReviews": 4
+        },
+        {
+            "_id": "3",
+            "name": "Velcro Ballerinas For Girls (Pink)",
+            "image":"https://arturocalle.vtexassets.com/arquivos/ids/210192-200-200?v=636981315492230000&width=200&height=200&aspect=true",
+            "description":"Lorem Ipsum is simply dummy text of the printing and typesetting",
+            "price":89,
+            "countInStock":0,
+            "rating": 5,
+            "numReviews": 4
+        },
+        {
+            "_id": "4",
+            "name": "Velcro Ballerinas For Girls (Pink)",
+            "image":"https://picsum.photos/200",
+            "description":"Lorem Ipsum is simply dummy text of the printing and typesetting",
+            "price":89,
+            "countInStock":3,
+            "rating": 2.5,
+            "numReviews": 4
+        },
+        {
+            "_id": "5",
+            "name": "Velcro Ballerinas For Girls (Pink)",
+            "image":"https://picsum.photos/200",
+            "description":"Lorem Ipsum is simply dummy text of the printing and typesetting",
+            "price":89,
+            "countInStock":0,
+            "rating": 3,
+            "numReviews": 4
+        },
+        {
+            "_id": "6",
+            "name": "Velcro Ballerinas For Girls (Pink)",
+            "image":"https://picsum.photos/200",
+            "description":"Lorem Ipsum is simply dummy text of the printing and typesetting",
+            "price":89,
+            "countInStock":3,
+            "rating": 0.5,
+            "numReviews": 4
+        },
+        {
+            "_id": "7",
+            "name": "Velcro Ballerinas For Girls (Pink)",
+            "image":"https://picsum.photos/200",
+            "description":"Lorem Ipsum is simply dummy text of the printing and typesetting",
+            "price":89,
+            "countInStock":3,
+            "rating": 1,
+            "numReviews": 4
+        },
+        {
+            "_id": "8",
+            "name": "Velcro Ballerinas For Girls (Pink)",
+            "image":"https://picsum.photos/200",
+            "description":"Lorem Ipsum is simply dummy text of the printing and typesetting",
+            "price":89,
+            "countInStock":3,
+            "rating": 4.5,
+            "numReviews": 4
+        },
+        {
+            "_id": "9",
+            "name": "Velcro Ballerinas For Girls (Pink)",
+            "image":"https://picsum.photos/200",
+            "description":"Lorem Ipsum is simply dummy text of the printing and typesetting",
+            "price":89,
+            "countInStock":3,
+            "rating": 5,
+            "numReviews": 4
+        },
+        {
+            "_id": "10",
+            "name": "Velcro Ballerinas For Girls (Pink)",
+            "image":"https://picsum.photos/200",
+            "description":"Lorem Ipsum is simply dummy text of the printing and typesetting",
+            "price":89,
+            "countInStock":3,
+            "rating": 2.5,
+            "numReviews": 4
+        },
+        {
+            "_id": "11",
+            "name": "Velcro Ballerinas For Girls (Pink)",
+            "image":"https://picsum.photos/200",
+            "description":"Lorem Ipsum is simply dummy text of the printing and typesetting",
+            "price":89,
+            "countInStock":3,
+            "rating": 3,
+            "numReviews": 4
+        },
+        {
+            "_id": "12",
+            "name": "Velcro Ballerinas For Girls (Pink)",
+            "image":"https://picsum.photos/200",
+            "description":"Lorem Ipsum is simply dummy text of the printing and typesetting",
+            "price":89,
+            "countInStock":3,
+            "rating": 0.5,
+            "numReviews": 4
+        },
+        {
+            "_id": "13",
+            "name": "Velcro Ballerinas For Girls (Pink)",
+            "image":"https://picsum.photos/200",
+            "description":"Lorem Ipsum is simply dummy text of the printing and typesetting",
+            "price":89,
+            "countInStock":3,
+            "rating": 1,
+            "numReviews": 4
+        }
+    ]
+}
